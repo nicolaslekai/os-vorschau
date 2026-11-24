@@ -1,0 +1,340 @@
+{
+ "hausmeister": {
+  "mac": {
+   "farbe": "#333333",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#ffffff",
+   "hell": true,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#ffffff",
+   "hell": true,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "architekturagent": {
+  "mac": {
+   "farbe": "#ffffff",
+   "hell": true,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#ffffff",
+   "hell": true,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#ffffff",
+   "hell": true,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "suh-steuerberater": {
+  "mac": {
+   "farbe": "#43728b",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#47768b",
+   "hell": false,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#45758b",
+   "hell": false,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "beckert": {
+  "mac": {
+   "farbe": "#e5e2db",
+   "hell": true,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#e5e1da",
+   "hell": true,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#e5e1da",
+   "hell": true,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "schwaltenweiher": {
+  "mac": {
+   "farbe": "#40586a",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#3f586a",
+   "hell": false,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#3d5769",
+   "hell": false,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "hahnenkamm": {
+  "mac": {
+   "farbe": "#324b58",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#304957",
+   "hell": false,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#2f4956",
+   "hell": false,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "impakt-vision": {
+  "mac": {
+   "farbe": "#e8e5df",
+   "hell": true,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#e8e6df",
+   "hell": true,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#e9e6e0",
+   "hell": true,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "maskottchen": {
+  "mac": {
+   "farbe": "#e5e2d9",
+   "hell": true,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#e4e2d9",
+   "hell": true,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#e3e2db",
+   "hell": true,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "arch-waleed": {
+  "mac": {
+   "farbe": "#0b1f1d",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#0b1f1d",
+   "hell": false,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#0b1f1d",
+   "hell": false,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "ferienapartments": {
+  "mac": {
+   "farbe": "#274150",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#324452",
+   "hell": false,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#304452",
+   "hell": false,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "bergwind": {
+  "mac": {
+   "farbe": "#13202e",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#152230",
+   "hell": false,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#152230",
+   "hell": false,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "mecfs": {
+  "mac": {
+   "farbe": "#edf1eb",
+   "hell": true,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#edf1eb",
+   "hell": true,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#edf1eb",
+   "hell": true,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ },
+ "ehrenberg": {
+  "mac": {
+   "farbe": "#212529",
+   "hell": false,
+   "groesse": [
+    1600,
+    942
+   ]
+  },
+  "ipad": {
+   "farbe": "#212529",
+   "hell": false,
+   "groesse": [
+    900,
+    1269
+   ]
+  },
+  "iphone": {
+   "farbe": "#212529",
+   "hell": false,
+   "groesse": [
+    600,
+    1218
+   ]
+  }
+ }
+}
